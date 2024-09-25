@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/00__Project/Cube Boat.unity
+    guid: 445fbde7d4cbb494da0d49c8aedb59f6
+  - enabled: 0
     path: Assets/00__Project/Demo Quai10.unity
     guid: ded88c429b8fc0040b5dfa20294e4f13
   m_configObjects:

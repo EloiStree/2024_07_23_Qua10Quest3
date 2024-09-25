@@ -28,6 +28,13 @@
       "dependencies": {},
       "hash": "ac6da4f597375568925f2ba775de75dc1f7785b1"
     },
+    "be.elab.charleroifort": {
+      "version": "https://github.com/EloiStree/2024_09_25_Charleroi1666.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7254b7cc92e9590ea1fe1d6ba8326ce9db53d14c"
+    },
     "be.elab.developernote": {
       "version": "https://github.com/EloiStree/2024_08_09_DeveloperNote.git",
       "depth": 0,
@@ -62,6 +69,32 @@
       "source": "git",
       "dependencies": {},
       "hash": "ab3b5dcf8fd49cf06cccc53b257e16f350587cd7"
+    },
+    "be.elab.mypackquai": {
+      "version": "https://github.com/EloiStree/2024_09_26_MonPackageQuai10.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.7.0",
+        "com.unity.probuilder": "5.2.3"
+      },
+      "hash": "d02d34aca2c6ac4e27e62276e86b93c8f3af22b6"
+    },
+    "be.elab.quaiboatnidar": {
+      "version": "https://github.com/EloiStree/2024_09_23_Quai10Boat.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "64ec78658df7765ac775d0809d651ce944a51646"
+    },
+    "be.elab.quaimeasure": {
+      "version": "https://github.com/EloiStree/2024_09_22_Quai10Mesh.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.probuilder": "5.2.3"
+      },
+      "hash": "6b4dadd83fa6fbc563dd466d6279aaa66d16f256"
     },
     "be.elab.quickfollowit": {
       "version": "https://github.com/EloiStree/2024_09_16_QuickFollowIt.git",
