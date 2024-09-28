@@ -1,5 +1,34 @@
 {
   "dependencies": {
+    "be.appolyonknight.mypackquai": {
+      "version": "https://github.com/Appolyonknight/24_09_26_MonpackageQuai10.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.7.0",
+        "com.unity.probuilder": "5.2.3"
+      },
+      "hash": "12076d11e0f27a908a68f99fee3f6df002e929e7"
+    },
+    "be.brandon.mypackquai": {
+      "version": "https://github.com/yodan1006/Quai10MyIsland.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.7.0",
+        "com.unity.probuilder": "5.2.3"
+      },
+      "hash": "3e19b491ae6b2129ad78165990489a9f038c29c0"
+    },
+    "be.brandon.waterquai": {
+      "version": "https://github.com/yodan1006/WaterQuai10.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.probuilder": "5.2.3"
+      },
+      "hash": "250e9aa4f90557b8a5fcfc1101b4495fdc090855"
+    },
     "be.elab.3dbenchy": {
       "version": "https://github.com/EloiStree/2024_09_14_3DBenchy.git",
       "depth": 0,
@@ -33,7 +62,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "7254b7cc92e9590ea1fe1d6ba8326ce9db53d14c"
+      "hash": "f30f220cc3b54a13d8569818569929d884f5abe3"
     },
     "be.elab.developernote": {
       "version": "https://github.com/EloiStree/2024_08_09_DeveloperNote.git",
@@ -54,7 +83,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "4fdea6c0c79179f3e96c1b6195f22663c4ce235b"
+      "hash": "f4e1bf5c2b5d60646ebc6c308f4a79ebea5ba56f"
     },
     "be.elab.hellocopter": {
       "version": "https://github.com/EloiStree/2024_09_10_HelicopterMove.git",
@@ -62,6 +91,13 @@
       "source": "git",
       "dependencies": {},
       "hash": "3f95c398eb3d730d499c936940c588f6905576ca"
+    },
+    "be.elab.ilegamenid": {
+      "version": "https://github.com/EloiStree/2024_09_11_FloatingIslandNidGaming.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5cb8347a5a7c471c811a52d8bb21cc020d4c0488"
     },
     "be.elab.irctoy": {
       "version": "https://github.com/EloiStree/2023_09_15_IToyControllerRC.git",
@@ -80,12 +116,19 @@
       },
       "hash": "d02d34aca2c6ac4e27e62276e86b93c8f3af22b6"
     },
+    "be.elab.nidgroupquai": {
+      "version": "https://github.com/EloiStree/2024_09_26_StreetArNid.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "61bb252045047cfb4f2e6405f4a1d3edb0377d4d"
+    },
     "be.elab.quaiboatnidar": {
       "version": "https://github.com/EloiStree/2024_09_23_Quai10Boat.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "64ec78658df7765ac775d0809d651ce944a51646"
+      "hash": "b4eb6ef4232268761ad923c52f3c8808d4d656c3"
     },
     "be.elab.quaimeasure": {
       "version": "https://github.com/EloiStree/2024_09_22_Quai10Mesh.git",
@@ -122,7 +165,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "4ba552971c957abd8a052f262fa0df2a18419fd8"
+      "hash": "14596e89d811f64c31f12b47f795e54daa016ade"
     },
     "be.elab.startpackboatoy": {
       "version": "https://github.com/EloiStree/2023_09_16_StartPackBoatToy.git",
@@ -131,40 +174,46 @@
       "dependencies": {},
       "hash": "ddf4d5aa8ae5fadab1921272ccb94d015c8c775b"
     },
+    "be.elab.startpackquaiscan": {
+      "version": "https://github.com/EloiStree/2024_09_25_StartPackQuai1666.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "98b580a5bba181f71d70a8b39db11ff8850f79ad"
+    },
     "be.elab.tellotoy": {
       "version": "https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "ed2cc8da4e55f55647329c441e77240a8b31a673"
+      "hash": "93e1bb9edf021357a7a7e2f5f956df96f7406f76"
     },
-    "be.elab.unitypackagefacilitator": {
-      "version": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+    "be.lucie.mypackquai": {
+      "version": "https://github.com/luciessrn/24_09_26MyPackageQuai10.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {},
-      "hash": "1690db24ce2c31b4ea23c2fc3c92a35ff11f438b"
+      "dependencies": {
+        "com.unity.inputsystem": "1.7.0",
+        "com.unity.probuilder": "5.2.3"
+      },
+      "hash": "e0019ac6920ce3b687010988b869792225609f3e"
     },
-    "be.elab.watchexecutetime": {
-      "version": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+    "be.ncar.ourpackquai10": {
+      "version": "https://github.com/BunnyBusher/2024_09_26_MonPackageQuai10.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {},
-      "hash": "a23d437b52930721f305f452169f1ae2cda1d6c3"
-    },
-    "be.elab.zcharleroiz": {
-      "version": "https://github.com/EloiStree/2024_07_30_ZCharleroiZ.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "1376c3a3ea20088efbb93f660183ccb62b3c1835"
+      "dependencies": {
+        "com.unity.inputsystem": "1.7.0",
+        "com.unity.probuilder": "5.2.3"
+      },
+      "hash": "eceb5570a3a5c4bc2415cb6e5efffbe70b1d9725"
     },
     "com.meta.xr.mrutilitykit": {
-      "version": "68.0.1",
+      "version": "68.0.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.meta.xr.sdk.core": "68.0.2",
+        "com.meta.xr.sdk.core": "68.0.3",
         "com.unity.textmeshpro": "3.0.6",
         "com.unity.ai.navigation": "1.1.4",
         "com.unity.nuget.newtonsoft-json": "3.0.2"
@@ -172,19 +221,19 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.all": {
-      "version": "68.0.1",
+      "version": "68.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.meta.xr.sdk.core": "68.0.2",
+        "com.meta.xr.sdk.core": "68.0.3",
         "com.meta.xr.sdk.audio": "68.0.0",
         "com.meta.xr.sdk.voice": "67.0.0",
         "com.meta.xr.simulator": "68.0.0",
-        "com.meta.xr.sdk.haptics": "68.0.1",
-        "com.meta.xr.mrutilitykit": "68.0.1",
+        "com.meta.xr.sdk.haptics": "68.0.2",
+        "com.meta.xr.mrutilitykit": "68.0.2",
         "com.meta.xr.sdk.platform": "68.0.0",
-        "com.meta.xr.sdk.interaction": "68.0.1",
-        "com.meta.xr.sdk.interaction.ovr": "68.0.1"
+        "com.meta.xr.sdk.interaction": "68.0.2",
+        "com.meta.xr.sdk.interaction.ovr": "68.0.2"
       },
       "url": "https://packages.unity.com"
     },
@@ -196,23 +245,23 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.core": {
-      "version": "68.0.2",
+      "version": "68.0.3",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.haptics": {
-      "version": "68.0.1",
+      "version": "68.0.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.meta.xr.sdk.core": "68.0.2"
+        "com.meta.xr.sdk.core": "68.0.3"
       },
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.interaction": {
-      "version": "68.0.1",
+      "version": "68.0.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -222,12 +271,12 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.interaction.ovr": {
-      "version": "68.0.1",
+      "version": "68.0.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.meta.xr.sdk.core": "68.0.2",
-        "com.meta.xr.sdk.interaction": "68.0.1"
+        "com.meta.xr.sdk.core": "68.0.3",
+        "com.meta.xr.sdk.interaction": "68.0.2"
       },
       "url": "https://packages.unity.com"
     },
